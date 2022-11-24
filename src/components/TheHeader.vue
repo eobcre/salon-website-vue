@@ -4,7 +4,7 @@ export default {};
 
 <template>
   <div
-    class="flex justify-between items-center text-dark-gray w-3/4 mx-auto border-b-2 border-dark-gray py-6"
+    class="flex justify-between items-center text-dark-gray w-3/4 mx-auto border-b-2 border-dark-gray py-8"
   >
     <router-link :to="{ path: '/' }">Logo</router-link>
     <nav>

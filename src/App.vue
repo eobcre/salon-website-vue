@@ -1,18 +1,4 @@
-<script>
-import TheHeader from './components/TheHeader.vue';
-import TheFooter from './components/TheFooter.vue';
-
-export default {
-  components: {
-    TheHeader,
-    TheFooter,
-  },
-};
-</script>
-
+<script></script>
 <template>
-  <div>
-    <TheHeader />
-    <TheFooter />
-  </div>
+  <router-view></router-view>
 </template>

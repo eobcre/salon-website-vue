@@ -1,17 +1,7 @@
-<script setup></script>
+<script>
+export default {};
+</script>
 
 <template>
-  <div>
-    <div>
-      <!-- <img src="" alt="Logo" /> -->
-      <p>Logo</p>
-    </div>
-    <nav>
-      <li>Salon</li>
-      <li>Gallery</li>
-      <li>Book</li>
-    </nav>
-  </div>
+  <div>Logo</div>
 </template>
-
-<style scoped></style>
